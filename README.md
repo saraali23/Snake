@@ -1,2 +1,2 @@
 # Snake
-Simple snake Console game
+Simple Console Snake Game with different levels written in c++
